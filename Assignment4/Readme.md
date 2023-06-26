@@ -1,4 +1,4 @@
-Data is loaded using pandas
+Data is loaded using pandas <br>
 Using nltk imported stopwords 
 Then preprocessed data - 1. Removed all the non word characters , spaces and digits
 Then tockenize the dataset for the words not in stopwords and took only the first 1000 most frequent words 
